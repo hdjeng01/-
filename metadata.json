@@ -1,0 +1,7 @@
+{
+  "name": "Traditional Chinese Perpetual Calendar & BaZi",
+  "description": "A sophisticated tool to convert Gregorian dates to Traditional Chinese Lunar dates and compute the Eight Characters (BaZi) of Destiny with elegant visuals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
